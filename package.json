@@ -1,0 +1,16 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "simple system monitor",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Emry",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^12.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "webtorrent": "^0.118.0"
+  }
+}
